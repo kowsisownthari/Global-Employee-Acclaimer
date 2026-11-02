@@ -1,0 +1,27 @@
+# Loan Hub – Loan Management System
+
+## Project Overview
+Loan Hub is a web-based loan management application designed to manage loan applications and related activities.
+
+## Technologies Used
+- Java
+- JSP (JavaServer Pages)
+- HTML
+- CSS
+- JavaScript
+- MySQL
+- Apache Tomcat
+- NetBeans IDE
+
+## Main Features
+- Loan Application Management
+- Employee Registration
+- Advisor Registration
+- Product Management
+- Email Notifications
+
+## Database
+MySQL
+
+## Developer
+Kaushalya Udayakumar
